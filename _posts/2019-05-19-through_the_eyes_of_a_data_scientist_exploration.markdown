@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Through the Eyes of a Data Scientist: Exploration"
-date:       2019-05-20 03:47:12 +0000
+date:       2019-05-19 23:47:13 -0400
 permalink:  through_the_eyes_of_a_data_scientist_exploration
 ---
 
