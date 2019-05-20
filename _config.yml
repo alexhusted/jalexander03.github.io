@@ -1,11 +1,11 @@
 # Site settings
 author: Alex Husted
-title: 
+title: Through the Eyes of a Data Scientist
 header-img: img/home-bg.png
 email: jalexanderhusted@gmail.com
 copyright_name: Alex Husted
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Exploring topics in the field of Data Science.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jalexander03
